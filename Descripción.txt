@@ -1,0 +1,10 @@
+Dejé el trabajo hasta donde pude. 
+
+
+Por la mayor parte, pude hacer el currículo excepto por íconos
+que quise implementar, pero para los cuales entiendo que necesitaba javascript
+o un derivado. Por lo que decidí dejarlo tal y como estaba. 
+
+Uso recurrente de clases y herencia sencilla en CSS
+En la parte del CSS están puestas las partes de los íconos que en la página
+web terminan apareciendo como en blanco.
